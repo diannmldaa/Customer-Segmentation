@@ -93,12 +93,14 @@ From the data above, there is also a visible pattern where in the three-year per
   * Recency - How long it's been since a customer bought something from us.
   * Frequency - How often a customer buys from us.
   * Monetary value - The total value of purchases a customer has made.
+  
+ ![rfm score](https://user-images.githubusercontent.com/99872829/201459324-c9668554-4383-4d42-9abf-8b0a5ce21f01.JPG)
  
  * In this RFM Model assigns a score of 1-4 (from best to worst) for customers in each of the three categories. The best RFM score is the one with the smallest values    for each variable, we use a 1 to 4 scale for recency, frequency, and monetary, with 1 being the highest, then the perfect RFM score is 111.
  
  ## Labeling
  
-![labeling](https://user-images.githubusercontent.com/61875831/201364359-5f0ef4dc-8a16-4177-99c0-7265966a6837.png)
+![labeling](https://user-images.githubusercontent.com/99872829/201459637-ea2e68fd-58e4-49a0-88ca-999aeb97a381.JPG)
 
 From the graph above, it is known that there are 6 categories of customers.
 The most customer category is **Loyal Customer** and the least is **Almost lost** customer.
